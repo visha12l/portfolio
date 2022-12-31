@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio/static/js/main.4d4a9fea.js",
-    "static/js/787.28cb0dcd.chunk.js": "/portfolio/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/portfolio/static/css/main.c877f7a5.css",
+    "main.js": "/portfolio/static/js/main.c53ed8ae.js",
+    "static/media/about_image.jpg": "/portfolio/static/media/about_image.8f970d102e6354e90d55.jpg",
+    "static/media/vishal_photo.png": "/portfolio/static/media/vishal_photo.2606c5732c013f24286a.png",
+    "static/media/back.jpeg": "/portfolio/static/media/back.039df504b983e2eb5b51.jpeg",
+    "static/media/Profile_Vishal_Shinde.pdf": "/portfolio/static/media/Profile_Vishal_Shinde.42b29f59485207bb268f.pdf",
     "index.html": "/portfolio/index.html",
-    "main.073c9b0a.css.map": "/portfolio/static/css/main.073c9b0a.css.map",
-    "main.4d4a9fea.js.map": "/portfolio/static/js/main.4d4a9fea.js.map",
-    "787.28cb0dcd.chunk.js.map": "/portfolio/static/js/787.28cb0dcd.chunk.js.map"
+    "main.c877f7a5.css.map": "/portfolio/static/css/main.c877f7a5.css.map",
+    "main.c53ed8ae.js.map": "/portfolio/static/js/main.c53ed8ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.4d4a9fea.js"
+    "static/css/main.c877f7a5.css",
+    "static/js/main.c53ed8ae.js"
   ]
 }
